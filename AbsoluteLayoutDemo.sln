@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteLayoutDemo", "AbsoluteLayoutDemo\AbsoluteLayoutDemo.csproj", "{EB9A086C-18FF-4B9E-BD2E-A88AF35D275D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9A086C-18FF-4B9E-BD2E-A88AF35D275D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9A086C-18FF-4B9E-BD2E-A88AF35D275D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9A086C-18FF-4B9E-BD2E-A88AF35D275D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EB9A086C-18FF-4B9E-BD2E-A88AF35D275D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9A086C-18FF-4B9E-BD2E-A88AF35D275D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9A086C-18FF-4B9E-BD2E-A88AF35D275D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5CA8CA8-6570-4206-AD6D-58D37938302D}
+	EndGlobalSection
+EndGlobal
